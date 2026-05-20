@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Building2, UserCircle, Stethoscope, ArrowRight } from 'lucide-react';
+import { Building2, Stethoscope, ArrowRight } from 'lucide-react';
 
 const streams = [
   {
